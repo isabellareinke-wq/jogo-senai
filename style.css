@@ -1,0 +1,19 @@
+
+body {
+    margin: 0;
+    background-color: #eeeeee;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+    color: #333333;
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+    background-color: #fafafa;
+    border: 2px solid #333333;
+}
